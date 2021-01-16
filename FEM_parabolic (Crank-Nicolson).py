@@ -132,7 +132,7 @@ plot(m, U[:,99])
 
 ################################## REFINEMENT ################################
 from scipy.sparse import csr_matrix, csc_matrix
-from Exercise1 import mm
+from FEMeliptic import mm
 
 @LinearForm
 def loading(v, w):
