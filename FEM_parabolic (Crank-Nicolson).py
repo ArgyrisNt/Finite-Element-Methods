@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/60874797/108603737-5d341780-73b2-11eb-8be3-dccf9f1206eb.png)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://user-images.githubusercontent.com/60874797/108603737-5d341780-73b2-11eb-8be3-dccf9f1206eb.png)
 
 import numpy as np
 from skfem import *
