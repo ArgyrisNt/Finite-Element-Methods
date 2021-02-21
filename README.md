@@ -1,6 +1,8 @@
 # Finite-Element-Methods
 
 Elliptic Problem
+
+
 ![](images/Mesh1.png)
 ![](images/Solution1.png)
 ![](images/Mesh2.png)
@@ -15,3 +17,9 @@ Elliptic Problem
 ![](images/Solution6.png)
 
 Parabolic Problem
+
+
+![](images/Mesh11.png)
+![](images/Solution11.png)
+![](images/Mesh12.png)
+![](images/Solution12.png)
